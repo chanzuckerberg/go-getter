@@ -3,13 +3,14 @@ module github.com/hashicorp/go-getter
 require (
 	github.com/aws/aws-sdk-go v1.15.78
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d
-	github.com/cheggaaa/pb v2.0.6+incompatible
+	github.com/cheggaaa/pb v1.0.27
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.0
 	github.com/hashicorp/go-safetemp v1.0.0
 	github.com/hashicorp/go-version v1.0.0
 	github.com/mattn/go-colorable v0.0.9 // indirect
 	github.com/mattn/go-isatty v0.0.4 // indirect
+	github.com/mattn/go-runewidth v0.0.4 // indirect
 	github.com/mitchellh/go-homedir v1.0.0
 	github.com/mitchellh/go-testing-interface v1.0.0
 	github.com/pmezard/go-difflib v1.0.0 // indirect
